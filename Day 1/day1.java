@@ -93,6 +93,4 @@ public class day1
         System.out.println("No valid integers detected oh dear that's bad");
         return lastNumber;
     }
-
-
 }
